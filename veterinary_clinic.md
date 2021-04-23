@@ -8,3 +8,10 @@ You have been contracted to build a software application for a veterinary clinic
 * A Veterinarian can count the number of pets of a given customer.
 
 Build upon your code from the first two iterations to complete this task.
+
+**Vet**
+state
+name, customers, pets(by age)
+
+behavior
+count # of pets (of customer)
